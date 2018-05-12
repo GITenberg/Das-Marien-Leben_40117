@@ -1,0 +1,28 @@
+_repo: Das-Marien-Leben_40117
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40117-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rilke, Rainer Maria
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '846'
+    url: http://www.gutenberg.org/2009/agents/846
+    wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40117'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Mary, Blessed Virgin, Saint -- Poetry'
+title: Das Marien-Leben
+url: http://www.gutenberg.org/ebooks/40117
